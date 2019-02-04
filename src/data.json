@@ -648,6 +648,36 @@
     "info": null
   },
   {
+    "name": "maltodextrin",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "hydrolized corn protein",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "disodium inosinate",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "disodium guanylate",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "propylene glycol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
     "name": "maltose",
     "compliant": false,
     "warn": false,
